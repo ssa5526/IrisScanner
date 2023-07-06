@@ -1,2 +1,2 @@
 # IrisScanner
-utilizes a variety of packages to create a machine learning model that can detect eye color via webcam
+utilizes a variety of packages to create a machine learning model that can detect eye color via webcam. Built with the help of tutorial @
